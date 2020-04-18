@@ -9,11 +9,10 @@ YBIGTA에서 진행한 ISL 스터디 자료입니다. 통계적 사고를 기반
 <p><img src="https://images-na.ssl-images-amazon.com/images/I/81HYeeBlGmL.jpg" height=20% width=20%></p>
 
 ## Participants
-* 최종문
-* 김정학
-* 백진우 
-* 염정운
-* 
+* 최종문(연세대학교 응용통계학과)
+* 김정학(연세대학교 컴퓨터과학과)
+* 백진우(연세대학교 컴퓨터과학과)
+* 염정운(연세대학교 과)
   
 
 
