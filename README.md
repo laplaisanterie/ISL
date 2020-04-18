@@ -7,6 +7,13 @@ YBIGTA에서 진행한 ISL 스터디 자료입니다. 통계적 사고를 기반
 
 
 <p><img src="https://images-na.ssl-images-amazon.com/images/I/81HYeeBlGmL.jpg" height=20% width=20%></p>
+
+## Participants
+* 최종문
+* 김정학
+* 백진우 
+* 염정운
+* 
   
 
 
